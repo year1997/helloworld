@@ -12,6 +12,10 @@ Bar 7
 
 Bar 6
 
+<<<<<<< HEAD
 Bar 9
 
 Bar 8
+=======
+bar 8
+>>>>>>> branch 'bar8' of https://github.com/year1997/helloworld
